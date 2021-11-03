@@ -1,0 +1,12 @@
+[package]
+name = "birdevolution"
+version = "0.0.0"
+authors = ["Josh", "Ethan"]
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = [
+    "libs/*",
+]
