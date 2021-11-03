@@ -5,3 +5,4 @@ authors = ["Josh Bedwell", "Ethan Evans"]
 edition = "2021"
 
 [dependencies]
+rand = "0.8.4"
