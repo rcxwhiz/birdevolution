@@ -14,6 +14,7 @@ pub struct Neuron {
 }
 
 pub struct LayerTopology {
+    // TODO might not need both input and output neurons
     pub input_neurons: usize,
     pub output_neurons: usize,
 }
