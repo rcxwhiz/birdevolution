@@ -1,0 +1,7 @@
+[package]
+name = "genetic-algorithm"
+version = "0.0.0"
+authors = ["Josh Bedwell", "Ethan Evans"]
+edition = "2021"
+
+[dependencies]
